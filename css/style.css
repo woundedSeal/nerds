@@ -543,3 +543,53 @@ header{
 	color: #cdcdcd;
 	margin-bottom: 34px;
 }
+
+.footer{
+	position: relative;
+	padding: 80px 0 80px 0;
+}
+
+.social-icons{
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 80px;
+}
+
+.social-btn{
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	background: #e1e1e1;
+	width: 62px;
+	height: 62px;
+	border-radius: 50%;
+}
+
+.social-btn:hover{
+	background: #fb565a;
+}
+
+.social-btn:active{
+	background: #d6494d;
+}
+
+.social-btn_margin{
+	margin: 0 26px 0 26px;
+}
+
+.get-friendship{
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.get-friendship__title{
+	font-size: 36px;
+	line-height: 36px;
+	margin-bottom: 12px;
+}
+
+.get-friendship__social-ticket{
+	color: #283136;
+}
