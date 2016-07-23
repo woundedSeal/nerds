@@ -513,8 +513,33 @@ header{
 
 .write-to{
 	position: absolute;
-	top: 250px;
+	top: 230px;
 	left: 100px;
 	padding: 26px 23px 26px 23px;
 	background-color: #fff;
+	box-sizing: border-box;
+}
+
+.write-to__title{
+	font-size: 16px;
+	line-height: 30px;
+	margin-bottom: 18px;
+}
+
+.write-to__title span{
+	font-weight: 500;
+}
+
+.write-to__adress{
+	font-size: 16px;
+	line-height: 20px;
+	color: #cdcdcd;
+	margin-bottom: 27px;
+}
+
+.write-to__phone{
+	font-size: 16px;
+	line-height: 20px;
+	color: #cdcdcd;
+	margin-bottom: 34px;
 }
