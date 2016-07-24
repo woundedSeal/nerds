@@ -667,3 +667,7 @@ header {
 .modal-content {
     display: none;
 }
+
+.modal-content-show{
+	display: block;
+}
