@@ -1,4 +1,4 @@
-var link = document.querySelector('#show-map');
+var link = document.querySelector('#show-map')
 var popup = document.querySelector('.modal-content');
 var close = document.querySelector('.auth-form__close');
 

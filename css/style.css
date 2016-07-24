@@ -169,7 +169,9 @@ header {
 .slide__title {
     font-size: 36px;
     font-weight: bold;
-    line-height: 1;
+    line-height: 36px;
+    margin-bottom: 29px;
+
 }
 
 .slide__text p {
